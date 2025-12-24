@@ -1,0 +1,17 @@
+[
+  {
+    "particulars": "HDFC Bank",
+    "symbol": "HDFCBANK:HDFCBANK",
+    "purchasePrice": 1490,
+    "quantity": 50,
+    "exchange": "HDFCBANK",
+    "sector": "General",
+    "investment": 74500,
+    "cmp": 993.1,
+    "presentValue": 49655,
+    "gainLoss": -24845,
+    "peRatio": "21.12",
+    "latestEarnings": "96.25",
+    "portfolioPercent": 100
+  }
+]
