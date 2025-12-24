@@ -1,6 +1,6 @@
 export const fetchPortfolio = async () => {
   try {
-    const res = await fetch('http://localhost:3001/api/portfolio', {
+    const res = await fetch('https://octabyte.onrender.com/api/portfolio', {
       method: 'GET',
       headers: {
         'Content-Type': 'application/json',
